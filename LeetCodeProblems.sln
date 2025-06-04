@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems", "LeetCodeProblems\LeetCodeProblems.csproj", "{C37D8471-83AB-4D39-9539-93BDA8946017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#20 Valid parentheses", "#20 Valid parentheses\#20 Valid parentheses.csproj", "{8C7A8659-E0EA-42D6-BA7D-26E7F56A060D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37D8471-83AB-4D39-9539-93BDA8946017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37D8471-83AB-4D39-9539-93BDA8946017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37D8471-83AB-4D39-9539-93BDA8946017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37D8471-83AB-4D39-9539-93BDA8946017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7A8659-E0EA-42D6-BA7D-26E7F56A060D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7A8659-E0EA-42D6-BA7D-26E7F56A060D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7A8659-E0EA-42D6-BA7D-26E7F56A060D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7A8659-E0EA-42D6-BA7D-26E7F56A060D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
