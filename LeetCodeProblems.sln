@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#13 Roman to Integer", "#13
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#9 Palindrome Number", "#9 Palindrome Number\#9 Palindrome Number.csproj", "{7C79F2CC-941E-4607-B4E0-3F1028C74D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#21 Merge Two sorted lists", "#21 Merge Two sorted lists\#21 Merge Two sorted lists.csproj", "{AEB92476-6E62-4867-97B4-E89E6B53E12A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C79F2CC-941E-4607-B4E0-3F1028C74D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C79F2CC-941E-4607-B4E0-3F1028C74D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C79F2CC-941E-4607-B4E0-3F1028C74D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB92476-6E62-4867-97B4-E89E6B53E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB92476-6E62-4867-97B4-E89E6B53E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB92476-6E62-4867-97B4-E89E6B53E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB92476-6E62-4867-97B4-E89E6B53E12A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
